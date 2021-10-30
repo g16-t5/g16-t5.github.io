@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	運動不足について調査 へのコメント	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	秋の散歩特集 へのコメント	</title>
+	<atom:link href="./../../%E7%A7%8B%E3%81%AE%E6%95%A3%E6%AD%A9%E7%89%B9%E9%9B%86/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 30 Oct 2021 04:52:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Oct 2021 14:15:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
